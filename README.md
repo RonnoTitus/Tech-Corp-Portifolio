@@ -3,7 +3,7 @@
 **Empowering Innovation Through Code**  
 *Showcasing cutting-edge solutions built by TechCorp*
 
-![TechCorp Banner](https://via.placeholder.com/1200x400.png?text=TechCorp+Portfolio+Banner)  
+![TechCorp Banner]()  
 *Clean. Modern. Impactful.*
 
 ---
